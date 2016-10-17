@@ -1,0 +1,9 @@
+make
+python
+python-pip
+python-dev
+ncurses-dev
+mongodb
+heroku
+curl
+tcpdump
