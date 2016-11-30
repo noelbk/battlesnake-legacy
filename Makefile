@@ -4,4 +4,5 @@ install:
 
 run:
 	/etc/init.d/mongodb start
+	sleep 2
 	heroku local
